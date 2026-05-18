@@ -27,7 +27,7 @@ well I decided to start building a platform that helps with lowering our huge ra
 ### CRC Diagram
 ### Context Diagram
 ### UseCase Diagram
-https://github.com/Nianca-Chetty103/LinkingLocals/blob/main/Usecase.drawio
+<img src="https://github.com/Nianca-Chetty103/LinkingLocals/blob/main/Usecase.png" width="450" height="200">
 
 ## Low-fidelity prototype preview
 

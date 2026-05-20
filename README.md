@@ -28,9 +28,10 @@ well I decided to start building a platform that helps with lowering our huge ra
 <img src="https://github.com/Nianca-Chetty103/LinkingLocals/blob/main/CRCDiagram%20(2).jpg" width="450" height="200">
 
 ### Context Diagram
+<img src="" width="450" height="200">
 
 ### UseCase Diagram
-<img src="https://github.com/Nianca-Chetty103/LinkingLocals/blob/main/Usecase.png" width="450" height="200">
+<img src="" width="450" height="200">
 
 ## Low-fidelity prototype preview
 

@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    display: flex;
+    background: #f4f6f8;
+}
+
+/* Sidebar */
+.sidebar {
+    width: 220px;
+    height: 100vh;
+    background: #1e1e2f;
+    color: white;
+    padding: 20px;
+}
+
+.sidebar a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    margin: 15px 0;
+}
+
+/* Main content */
+.main {
+    flex: 1;
+    padding: 30px;
+}
+
+/* Table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Status badges */
+.status {
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 12px;
+}
+
+.approved {
+    background: #d4edda;
+    color: green;
+}
+
+.pending {
+    background: #fff3cd;
+    color: #856404;
+}
+
+.blocked {
+    background: #f8d7da;
+    color: red;
+}
+
+/* Buttons */
+button {
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+button:hover {
+    opacity: 0.8;
+}
